@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">zuerst</string>
+    <string name="Bienvenida">Willkommen</string>
+    <string name="entrar">Geben Sie</string>
+    <string name="todo">Alle</string>
+</resources>

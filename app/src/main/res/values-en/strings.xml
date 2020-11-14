@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firts</string>
+    <string name="Bienvenida">Welcome</string>
+    <string name="entrar">Enter</string>
+    <string name="todo">Todo</string>
+</resources>

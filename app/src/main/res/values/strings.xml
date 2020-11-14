@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primer</string>
+    <string name="Bienvenida">Bienvenido</string>
+    <string name="entrar">Entrar</string>
+    <string name="todo">Todo</string>
+    <string name="imagen">imagen</string>
+    <string name="image">TODO</string>
+</resources>
